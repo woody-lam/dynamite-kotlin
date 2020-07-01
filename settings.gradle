@@ -1,0 +1,3 @@
+include ':dynamite'
+include ':app'
+rootProject.name = "Dynamite"
